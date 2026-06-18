@@ -89,7 +89,7 @@ My goal is to start my career as a SOC Analyst (Tier 1) and gain practical exper
 </div>
 
 
-## Certifications
+
 ## Certifications
 
 <div>
